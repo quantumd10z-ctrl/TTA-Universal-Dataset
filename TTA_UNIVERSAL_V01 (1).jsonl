@@ -5,10 +5,3 @@
 {"domain": "QUANTUM", "source_type": "external_link", "source_links": ["https://quantum-computing.ibm.com/", "https://quantumai.google/", "https://ionq.com/", "https://rigetti.com/"], "notes": "External dataset references for QUANTUM, no raw data loaded in-session."}
 {"domain": "QKD", "source_type": "external_link", "source_links": ["https://alice-publications.web.cern.ch/", "https://www.idquantique.com/", "https://quantuminternetalliance.org/"], "notes": "External dataset references for QKD, no raw data loaded in-session."}
 {"domain": "COSMOLOGY", "source_type": "external_link", "source_links": ["http://edd.ifa.hawaii.edu/cf4/cf4_table2.csv", "https://arxiv.org/abs/2503.04837"], "notes": "External dataset references for COSMOLOGY, no raw data loaded in-session."}
-TTA-Universal-Dataset/
-│
-├── TTA_UNIVERSAL_V01.jsonl     ← AQUÍ
-├── SPARC_MASTER_FULL.jsonl     ← si lo subes
-├── SDSS_TTA_SAMPLE.jsonl       ← si lo subes
-├── README.md
-└── (otros archivos)
